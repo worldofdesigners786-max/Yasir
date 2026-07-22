@@ -8,4 +8,8 @@
 .body {
     max-width: 100%;
     overflow-x: hidden;
+    background-color:#6c757d;
+}
+.row{
+    --bs-gutter:0;
 }
